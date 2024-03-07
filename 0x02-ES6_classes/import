@@ -1,0 +1,6 @@
+)
+rt default function initializeRooms() {
+  return [
+    new ClassRoom(19),
+    new ClassRoom(20),
+    new Cl:
